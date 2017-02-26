@@ -9,9 +9,9 @@ body {
 </style>
 </head>
      <body bgcolor="#FFFFFF" link='#FF8080' vlink='#FF8080' alink='#FFFF00'> 
-     <h2><font color='#CC6600'>常用</font>
-	 </h2>
-	 <a href="https://www.zhihu.com/question/21637013">如何成为有趣的人</a>&nbsp;&nbsp;&nbsp;
+     <h2><font color='#CC6600'>常用</font> </h2>
+   
+     <a href="https://www.zhihu.com/question/21637013">如何成为有趣的人</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.bilibili.com/video/av5274541/index_4.html">1993~2011国际大专辩论赛</a>&nbsp;&nbsp;&nbsp;
      <a href="https://www.zhihu.com/search?type=content&sort=upvote&q=%E5%BC%BA%E5%8A%BF%E7%9A%84%E4%BA%BA">如何与强势的人相处</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.jiaowu580.com/">教务处</a>&nbsp;&nbsp;&nbsp;
@@ -21,8 +21,7 @@ body {
      
      
      
-     <h2><font color='#CC6600'>工具</font>
-     </h2>
+     <h2><font color='#CC6600'>工具</font></h2>
      <a href="http://so.baiduyun.me/">网盘搜索</a>&nbsp;&nbsp;&nbsp;
      <a href="http://pan.glgoo.com/">Glgoo</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.dodoca.com/">点点客</a>&nbsp;&nbsp;&nbsp;
@@ -30,8 +29,7 @@ body {
      
      
      
-     <h2><font color='#CC6600'>IT News</font>
-	 </h2>
+     <h2><font color='#CC6600'>IT News</font></h2>
      <a href="http://www.zhihu.com/">知乎</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.leiphone.com/">雷锋网</a>&nbsp;&nbsp;&nbsp;
      <a href="http://kuailiyu.cyzone.cn/">快鲤鱼</a>&nbsp;&nbsp;&nbsp;
@@ -40,8 +38,8 @@ body {
      <a href="http://exp.qq.com/">腾讯体验中心</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.geekpark.net/">极客公园</a>&nbsp;&nbsp;&nbsp;
      <a href="http://next.36kr.com/posts">NEXT</a>&nbsp;&nbsp;&nbsp;
-     <a href="http://youxiputao.com/">游戏葡萄</a>&nbsp;&nbsp;&nbsp;
-	 <br>
+     <a href="http://youxiputao.com/">游戏葡萄</a>&nbsp;&nbsp;&nbsp;
+     <br>
      
      
      <h2><font color='#CC6600'>IT技术</font> </h2>
@@ -49,7 +47,7 @@ body {
      <a href="http://study.163.com/find.htm#/find/courselist?ct=31001">云课堂-IT</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.dreamdu.com/">梦之都(HTML)</a>&nbsp;&nbsp;&nbsp;
      <a href="https://msdn.microsoft.com/zh-cn/library/618ayhy6(v=vs.100).aspx">C#参考-MSDN</a>&nbsp;&nbsp;&nbsp;
-     <a href="http://mooc.study.163.com/learn/PKU-1000003003?tid=1000003009#/learn/content?type=detail&id=1000024001">唐大仕C#</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://mooc.study.163.com/learn/PKU-1000003003?tid=1000003009#/learn/content?type=detail&id=1000024001">唐大仕C#         </a>&nbsp;&nbsp;&nbsp;
      <a href="http://segmentfault.com/blog/trigkit4">trigkit4(JAVA)</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.liaoxuefeng.com/">廖雪峰</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.trinea.cn/">Trinea</a>&nbsp;&nbsp;&nbsp;
