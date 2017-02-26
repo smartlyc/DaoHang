@@ -10,10 +10,11 @@ body {
 </head>
      <body bgcolor="#FFFFFF" link='#FF8080' vlink='#FF8080' alink='#FFFF00'> 
      <h2><font color='#CC6600'>常用</font> </h2>
-   
-     <a href="https://www.zhihu.com/question/21637013">如何成为有趣的人</a>&nbsp;&nbsp;&nbsp;
+     <a href="https://www.zhihu.com/question/21637013">如何成为有趣的人</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.bilibili.com/video/av5274541/index_4.html">1993~2011国际大专辩论赛</a>&nbsp;&nbsp;&nbsp;
      <a href="https://www.zhihu.com/search?type=content&sort=upvote&q=%E5%BC%BA%E5%8A%BF%E7%9A%84%E4%BA%BA">如何与强势的人相处</a>&nbsp;&nbsp;&nbsp;
+     <br>
+
      <a href="http://www.jiaowu580.com/">教务处</a>&nbsp;&nbsp;&nbsp;
      <a href="https://mail.qq.com/cgi-bin/frame_html?sid=aR8oxHg4KJq8WjJn&r=5368bba12c619c6e25d19abb7c5a979c/">邮箱</a>&nbsp;&nbsp;&nbsp;
      <a href="http://mooc.study.163.com/learn/PKU-1000003003?tid=1000003009#/learn/content?type=detail&id=1000024001">唐大仕C#</a>&nbsp;&nbsp;&nbsp;
@@ -79,9 +80,6 @@ body {
      <br><br><br>
      <a href="http://blog.xiqiao.info/">西乔</a>&nbsp;&nbsp;&nbsp;
      <a href="http://weimao.me/">糖水湾乌托邦</a>&nbsp;&nbsp;&nbsp;
-     <a href="http://blog.sina.com.cn/kulapikasf">酷拉皮卡</a>&nbsp;&nbsp;&nbsp;
-	 <br><br>
+     <a href="http://blog.sina.com.cn/kulapikasf">酷拉皮卡</a>&nbsp;&nbsp;&nbsp;
+     <br><br>
 	
-</html> 
-
-<!--请添加京东密享链接mi.jd.com以及点点客的链接-->
