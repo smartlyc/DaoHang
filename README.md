@@ -1,11 +1,8 @@
 <html>
 <head>
-    <title>smartlyc个人网址导航</title>
+    <title></title>
 	 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style type="text/css">
-body {
-	background-image: url(../../../1.jpeg);
-}
 </style>
 
 
