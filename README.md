@@ -37,7 +37,8 @@ var _hmt = _hmt || [];
      <a href="https://www.zhihu.com/search?type=content&sort=upvote&q=%E5%BC%BA%E5%8A%BF%E7%9A%84%E4%BA%BA">如何与强势的人相处</a>&nbsp;&nbsp;&nbsp;
      <br>
 
-     <a href="http://www.jiaowu580.com/">教务处</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://byr.wiki">北邮人</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.jiaowu580.com/">教务处</a>&nbsp;&nbsp;&nbsp;
      <a href="https://mail.qq.com/cgi-bin/frame_html?sid=aR8oxHg4KJq8WjJn&r=5368bba12c619c6e25d19abb7c5a979c/">邮箱</a>&nbsp;&nbsp;&nbsp;
      <a href="http://mooc.study.163.com/learn/PKU-1000003003?tid=1000003009#/learn/content?type=detail&id=1000024001">唐大仕C#</a>&nbsp;&nbsp;&nbsp;
      <a href="https://msdn.microsoft.com/zh-cn/library/618ayhy6(v=vs.100).aspx">C#参考-MSDN</a>&nbsp;&nbsp;&nbsp;
