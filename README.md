@@ -44,8 +44,7 @@ body {
 	 <br>
      
      
-     <h2><font color='#CC6600'>IT技术</font></font>
-	 </h2>
+     <h2><font color='#CC6600'>IT技术</font> </h2>
      <a href="http://study.163.com/curricula/cs.htm">云课堂-CS</a>&nbsp;&nbsp;&nbsp;
      <a href="http://study.163.com/find.htm#/find/courselist?ct=31001">云课堂-IT</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.dreamdu.com/">梦之都(HTML)</a>&nbsp;&nbsp;&nbsp;
@@ -57,8 +56,7 @@ body {
      
      
      
-     <h2><font color='#CC6600'>PM</font></font>
-	 </h2>
+     <h2><font color='#CC6600'>PM</font> </h2>
      <a href="http://zhuanlan.zhihu.com/uxcafe">xidea的咖啡馆</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.jianshu.com/users/bda9978751c4/latest_articles">王镇雷</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.jianshu.com/users/ba6d563caa3a/latest_articles">刘英滕</a>&nbsp;&nbsp;&nbsp;
@@ -86,4 +84,6 @@ body {
      <a href="http://blog.sina.com.cn/kulapikasf">酷拉皮卡</a>&nbsp;&nbsp;&nbsp;
 	 <br><br>
 	
-</html><!--请添加京东密享链接mi.jd.com以及点点客的链接-->
+</html> 
+
+<!--请添加京东密享链接mi.jd.com以及点点客的链接-->
