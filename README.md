@@ -86,23 +86,20 @@ var _hmt = _hmt || [];
      <a href="http://www.ikent.me/blog/">幻风阁</a>&nbsp;&nbsp;&nbsp;
      <a href="http://pcuseman.com/">产品设计与生活</a>&nbsp;&nbsp;&nbsp;
      <a href="http://blog.sina.com.cn/u/1161626144">刘津legene</a>&nbsp;&nbsp;&nbsp;
-     <br><br><br>
-     <a href="http://elya.cc/">落花流水——elya妞</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://elya.cc/">落花流水——elya妞</a>&nbsp;&nbsp;&nbsp;
      <a href="http://icojump.in/">ICOjump</a>&nbsp;&nbsp;&nbsp;
      <a href="http://iamsujie.com/">人人都是产品经理</a>&nbsp;&nbsp;&nbsp;
      <a href="http://iconmoon.com/blog2/">图月志</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.jianshu.com/users/c22ccc510fb9/latest_articles">纯银V</a>&nbsp;&nbsp;&nbsp;
      <a href="http://ucdchina.com/">UCDChina</a>&nbsp;&nbsp;&nbsp;
-     <br><br><br>
-     <a href="http://huchao.me/">胡澈</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://huchao.me/">胡澈</a>&nbsp;&nbsp;&nbsp;
      <a href="http://apple4us.com/">apple4us</a>&nbsp;&nbsp;&nbsp;
      <a href="http://daichuanqing.com/">曉生</a>&nbsp;&nbsp;&nbsp;
      <a href="http://beforweb.com/">为网而生</a>&nbsp;&nbsp;&nbsp;
      <a href="http://www.tuzei8.com/">关于设计实践和思考</a>&nbsp;&nbsp;&nbsp;
      <a href="http://blog.wangjunyu.net/">猫窝</a>&nbsp;&nbsp;&nbsp;
      <a href="http://firecacada.blog.163.com/blog/#m=0">纯银-lofter</a>&nbsp;&nbsp;&nbsp;
-     <br><br><br>
-     <a href="http://blog.xiqiao.info/">西乔</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://blog.xiqiao.info/">西乔</a>&nbsp;&nbsp;&nbsp;
      <a href="http://weimao.me/">糖水湾乌托邦</a>&nbsp;&nbsp;&nbsp;
      <a href="http://blog.sina.com.cn/kulapikasf">酷拉皮卡</a>&nbsp;&nbsp;&nbsp;
      <br><br>
