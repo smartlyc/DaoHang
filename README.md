@@ -100,6 +100,5 @@ var _hmt = _hmt || [];
      <a href="http://blog.xiqiao.info/">西乔</a>&nbsp;&nbsp;&nbsp;
      <a href="http://weimao.me/">糖水湾乌托邦</a>&nbsp;&nbsp;&nbsp;
      <a href="http://blog.sina.com.cn/kulapikasf">酷拉皮卡</a>&nbsp;&nbsp;&nbsp;
-     
-<div id="particles"><canvas width="1263" height="869" class="particles-js-canvas-el" style="width: 100%; height: 100%;">particles-js-canvas-el</canvas></div>
+     <canvas width="1263" height="869" class="particles-js-canvas-el" style="width: 100%; height: 100%;">particles-js-canvas-el</canvas>
      	
