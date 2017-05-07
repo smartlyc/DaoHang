@@ -1,28 +1,104 @@
+<html>
+<head>
+    <title></title>
+	 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	 
+         <meta name="viewport" content="width=device-width, initial-scale=1" />
+<style type="text/css">
+</style>
 
-     
- <title></title>
-     <meta name="viewport" content="width=device-width, initial-scale=1" />
-<style type="text/css"> </style> <script src="https://s11.cnzz.com/z_stat.php?id=1261390656&web_id=1261390656" language="JavaScript"></script> <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o) m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-92667320-1', 'auto'); ga('send', 'pageview'; </script> <script> var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); hm.src = "https://hm.baidu.com/hm.js?d21dd59855971c0bbeecae6d553edd66"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s); })(); </script>    
-常用
 
-如何成为有趣的人    1993~2011国际大专辩论赛        如何与强势的人相处        北邮人        教务处    邮箱    唐大仕C#    C#参考-MSDN   
-   
+<script src="https://s11.cnzz.com/z_stat.php?id=1261390656&web_id=1261390656" language="JavaScript"></script>
 
-工具
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o)
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-92667320-1', 'auto');
+  ga('send', 'pageview';
+</script>
 
-网盘搜索    Glgoo    点点客    蜜享   
-   
 
-IT News
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?d21dd59855971c0bbeecae6d553edd66";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
 
-知乎    雷锋网    快鲤鱼    36氪    虎嗅    腾讯体验中心    极客公园    NEXT        游戏葡萄       
-   
-
-IT技术
-
-云课堂-CS    云课堂-IT    梦之都(HTML)    C#参考-MSDN    唐大仕C#     trigkit4(JAVA)    廖雪峰    Trinea   
-   
-
-PM
-
-xidea的咖啡馆    王镇雷    刘英滕    幻风阁    产品设计与生活    刘津legene        落花流水——elya妞    ICOjump    人人都是产品经理    图月志    纯银V    UCDChina        胡澈    apple4us    曉生    为网而生    关于设计实践和思考    猫窝    纯银-lofter       西乔    糖水湾乌托邦        酷拉皮卡        particles-js-canvas-el  
+</head>
+     <body bgcolor="#FFFFFF" link='#FF8080' vlink='#FF8080' alink='#FFFF00'> 
+     <h2><font color='#CC6600'>常用</font> </h2>
+     <a href="https://www.zhihu.com/question/21637013">如何成为有趣的人</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.bilibili.com/video/av5274541/index_4.html">1993~2011国际大专辩论赛</a>&nbsp;&nbsp;&nbsp;
+     <a href="https://www.zhihu.com/search?type=content&sort=upvote&q=%E5%BC%BA%E5%8A%BF%E7%9A%84%E4%BA%BA">如何与强势的人相处</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://byr.wiki">北邮人</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.jiaowu580.com/">教务处</a>&nbsp;&nbsp;&nbsp;
+     <a href="https://mail.qq.com/cgi-bin/frame_html?sid=aR8oxHg4KJq8WjJn&r=5368bba12c619c6e25d19abb7c5a979c/">邮箱</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://mooc.study.163.com/learn/PKU-1000003003?tid=1000003009#/learn/content?type=detail&id=1000024001">唐大仕C#</a>&nbsp;&nbsp;&nbsp;
+     <a href="https://msdn.microsoft.com/zh-cn/library/618ayhy6(v=vs.100).aspx">C#参考-MSDN</a>&nbsp;&nbsp;&nbsp;
+     
+     
+     
+     <h2><font color='#CC6600'>工具</font></h2>
+     <a href="http://so.baiduyun.me/">网盘搜索</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://pan.glgoo.com/">Glgoo</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.dodoca.com/">点点客</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://mi.jd.com/home.html">蜜享</a>&nbsp;&nbsp;&nbsp;
+     
+     
+     
+     <h2><font color='#CC6600'>IT News</font></h2>
+     <a href="http://www.zhihu.com/">知乎</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.leiphone.com/">雷锋网</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://kuailiyu.cyzone.cn/">快鲤鱼</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://36kr.com/">36氪</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.huxiu.com/">虎嗅</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://exp.qq.com/">腾讯体验中心</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.geekpark.net/">极客公园</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://next.36kr.com/posts">NEXT</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://youxiputao.com/">游戏葡萄</a>&nbsp;&nbsp;&nbsp;
+     
+ 
+     
+     <h2><font color='#CC6600'>IT技术</font> </h2>
+     <a href="http://study.163.com/curricula/cs.htm">云课堂-CS</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://study.163.com/find.htm#/find/courselist?ct=31001">云课堂-IT</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.dreamdu.com/">梦之都(HTML)</a>&nbsp;&nbsp;&nbsp;
+     <a href="https://msdn.microsoft.com/zh-cn/library/618ayhy6(v=vs.100).aspx">C#参考-MSDN</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://mooc.study.163.com/learn/PKU-1000003003?tid=1000003009#/learn/content?type=detail&id=1000024001">唐大仕C#         </a>&nbsp;&nbsp;&nbsp;
+     <a href="http://segmentfault.com/blog/trigkit4">trigkit4(JAVA)</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.liaoxuefeng.com/">廖雪峰</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.trinea.cn/">Trinea</a>&nbsp;&nbsp;&nbsp;
+     
+     
+     
+     <h2><font color='#CC6600'>PM</font> </h2>
+     <a href="http://zhuanlan.zhihu.com/uxcafe">xidea的咖啡馆</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.jianshu.com/users/bda9978751c4/latest_articles">王镇雷</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.jianshu.com/users/ba6d563caa3a/latest_articles">刘英滕</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.ikent.me/blog/">幻风阁</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://pcuseman.com/">产品设计与生活</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://blog.sina.com.cn/u/1161626144">刘津legene</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://elya.cc/">落花流水——elya妞</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://icojump.in/">ICOjump</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://iamsujie.com/">人人都是产品经理</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://iconmoon.com/blog2/">图月志</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.jianshu.com/users/c22ccc510fb9/latest_articles">纯银V</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://ucdchina.com/">UCDChina</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://huchao.me/">胡澈</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://apple4us.com/">apple4us</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://daichuanqing.com/">曉生</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://beforweb.com/">为网而生</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://www.tuzei8.com/">关于设计实践和思考</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://blog.wangjunyu.net/">猫窝</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://firecacada.blog.163.com/blog/#m=0">纯银-lofter</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://blog.xiqiao.info/">西乔</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://weimao.me/">糖水湾乌托邦</a>&nbsp;&nbsp;&nbsp;
+     <a href="http://blog.sina.com.cn/kulapikasf">酷拉皮卡</a>&nbsp;&nbsp;&nbsp;
+     <canvas width="1263" height="869" class="particles-js-canvas-el" style="width: 100%; height: 100%;">particles-js-canvas-el</canvas>
+     	
