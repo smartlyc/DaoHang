@@ -5,6 +5,25 @@
 	 
          <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style type="text/css">
+		<!--body {
+			background-image: url(../../../1.jpeg);
+		}-->
+		#header{
+			float:left;
+			width:59%;
+			padding: 0 0 0 1%;
+		}
+		#video1{
+			width:40%;
+			padding:0% 0% 0% 60%;
+		}
+		#music{
+			float:top;
+			height:100%;
+			width:100%;
+			padding:0% 0% 0% 0%;;
+		}
+		
 </style>
 
 
