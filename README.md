@@ -4,6 +4,6 @@
 2016年上传
 
 
-### [个人导航页](https://lyc.scalelab.xyz/DaoHang/music-player.html)
+### [个人导航页](https://lyc.scalelab.xyz/DaoHang/)
 
 ### [个人博客](https://lyc.scalelab.xyz/)
